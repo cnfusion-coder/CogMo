@@ -1,0 +1,15 @@
+.github-markdown-body > table thead tr {
+    background-color: rgba(30, 30, 30, 0.35) !important;
+}
+
+.github-markdown-body > table tbody tr {
+    background-color: rgba(0, 0, 0, 0.35) !important;
+}
+
+.v-md-pre-wrapper {
+    border-radius: 12px;
+    border: var(--color-border) 2px solid;
+    margin: 12px 0;
+    background-color: var(--color-surface) !important;
+}
+
